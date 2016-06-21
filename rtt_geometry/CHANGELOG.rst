@@ -4,3 +4,10 @@ Changelog for package rtt_geometry
 
 Forthcoming
 -----------
+
+2.8.1 (2015-07-21)
+------------------
+
+2.8.0 (2015-01-23)
+------------------
+ * Initial release
